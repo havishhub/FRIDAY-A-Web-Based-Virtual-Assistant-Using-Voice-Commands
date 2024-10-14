@@ -26,7 +26,7 @@ Git to clone the repository
 Installation
 Clone the Repository:
 Open your terminal and run:
-git clone https://github.com/YourUsername/FRIDAY-Virtual-Assistant.git
+git clone https://github.com/havishhub/FRIDAY-A-Web-Based-Virtual-Assistant-Using-Voice-Commands.git
 Navigate to the Project Directory:
 cd FRIDAY-Virtual-Assistant
 Open the Project:
